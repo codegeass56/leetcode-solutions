@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/codegeass56/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codegeass56/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/codegeass56/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/codegeass56/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codegeass56/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codegeass56/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/codegeass56/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
